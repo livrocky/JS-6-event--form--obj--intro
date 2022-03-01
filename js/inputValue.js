@@ -12,9 +12,9 @@ btn1El.addEventListener("click", function () {
   //result = input
 
   resultEl.textContent = inputEl.value;
-  //cons
-  //afdasdf
-  //asdasd
+  //console.log('resultEl ===', resultEl)
+  //console.log('inputEl ===', inputEl)
+  //isvalyti ivesties lauka
   inputEl.value = " ";
 });
 
